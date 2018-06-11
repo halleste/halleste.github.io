@@ -1,0 +1,46 @@
+body {
+background-image: url("https://wallpapertag.com/wallpaper/full/9/e/a/920212-water-background-images-1920x1080-hd-for-mobile.jpg")}
+
+h1 {
+    color: red;
+}
+h2 {
+    color: azure;
+}
+
+h3 {
+    color: #111111;
+}
+p {
+    color: azure;
+}
+img {
+    height:300px;
+    width:300px;
+    margin-top:50px;
+    margin-left:200px;
+}
+
+.intro{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
